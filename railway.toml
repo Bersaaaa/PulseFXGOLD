@@ -1,0 +1,7 @@
+[build]
+builder = "NIXPACKS"
+
+[deploy]
+startCommand = "python pulsefx_gold_mt5.py"
+restartPolicyType = "ON_FAILURE"
+restartPolicyMaxRetries = 10

@@ -1,0 +1,5 @@
+requests
+numpy
+pandas
+python-dotenv
+# MetaTrader5  # décommenter uniquement sur Windows
